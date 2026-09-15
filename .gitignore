@@ -1,0 +1,7 @@
+model.safetensors
+voice_primer.txt
+oracle_corpus*
+*.pdf
+private/
+models/
+*.zip
