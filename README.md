@@ -148,6 +148,14 @@ The project is under active development, including work on:
 * provenance and authorship
 * responsible access to writer-specific models
 
+## Demo
+
+A temporary interactive demonstration of The Oracle may be made available during active research and exhibition sessions.
+
+The public interface allows participants to write with The Oracle while the underlying literary corpus, private voice primer, and trained model weights remain private.
+
+Because the current demonstration runs through a temporary research-computing environment, the public URL may change between sessions.
+
 ## Credits
 
 The Oracle was created by Monica-Lita Storss.
