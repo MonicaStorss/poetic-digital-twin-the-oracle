@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you reference The Oracle in research, scholarship, teaching, or artistic work, please cite it as follows."
+title: "The Oracle"
+type: software
+authors:
+  - family-names: "Storss"
+    given-names: "Monica-Lita"
+year: 2026
+abstract: "The Oracle is a poetic digital twin and co-writing language model created by fine-tuning GPT-2 on a private literary corpus. The project explores corpus-specific language modeling, poetics, authorship, relationality, and experimental publishing."
