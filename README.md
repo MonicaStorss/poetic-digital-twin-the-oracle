@@ -34,6 +34,16 @@ The following materials are intentionally private and are **not distributed thro
 
 This repository shares the **method**, not the literary corpus or a distributable copy of The Oracle.
 
+## Use and Permissions
+
+This repository is publicly viewable for research, scholarly, artistic, and documentation purposes, but it is **not open source**.
+
+Reuse, modification, redistribution, publication, incorporation into another project, or other use of the original code or materials requires **prior written permission from Monica-Lita Storss**.
+
+Any authorized use must include appropriate attribution to Monica-Lita Storss and The Oracle.
+
+The literary corpus, poetry, private voice primer, training materials, and trained Oracle model weights are not included in this repository and are not licensed for reuse.
+
 ## Model Architecture
 
 The Oracle uses the GPT-2 small architecture.
